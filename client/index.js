@@ -1,1 +1,2 @@
-console.log('You\'re good to go!');
+'use strict';
+console.log('Welcome to the Flux Backbone React Skeleton');
